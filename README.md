@@ -4,12 +4,12 @@
 
 ### Funciones de utilidad/cadenas - Programas relacionados
 
-[funciones_captura](funciones_captura.py)
-[ejemplo_uso_funciones](1_ejemplo_uso_funciones.py)
-[secuencias_numericas](2_secuencias_numericas.py)
-[cadenas_uno](3_cadenas_uno.py)
-[cadenas_dos](4_cadenas_dos.py)
-[caracteres](5_caracteres.py)
+* [funciones_captura](funciones_captura.py)
+* [ejemplo_uso_funciones](1_ejemplo_uso_funciones.py)
+* [secuencias_numericas](2_secuencias_numericas.py)
+* [cadenas_uno](3_cadenas_uno.py)
+* [cadenas_dos](4_cadenas_dos.py)
+* [caracteres](5_caracteres.py)
 
 
 En este taller trabajaremos con las funciones definidas en el script **funciones_captura.py**, las cuales permiten realizar capturas controladas de valores numéricos, flotantes, cadenas de caracteres, limpieza de pantalla, menú de opciones y espera en la ejecución.
@@ -31,8 +31,9 @@ Veremos programas con ejemplos de uso, y trabajaremos con estructuras de datos e
 * **Listas:** Una lista es una colección ordenada y mutable de elementos. Las listas pueden contener cualquier tipo de dato y pueden modificarse agregando, eliminando o modificando elementos.
 
 ### Estructura de datos - Programas relacionados
-[tuplas](6_tuplas.py)
-[listas](7_listas.py)
-[diccionarios 1](8_diccionarios.py)
-[diccionarios 2](9_diccionarios.py)
-[ws conversor de grados](conversor_grados.py)
+
+* [tuplas](6_tuplas.py)
+* [listas](7_listas.py)
+* [diccionarios 1](8_diccionarios.py)
+* [diccionarios 2](9_diccionarios.py)
+* [ws conversor de grados](conversor_grados.py)
