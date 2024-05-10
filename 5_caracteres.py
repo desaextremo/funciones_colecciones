@@ -1,5 +1,9 @@
 # Ejemplos de métodos para identificar características de caracteres
-caracteres = input("Ingresa una cadena de caracteres ?")
+from funciones_captura import limpiar_pantalla,leer_cadena
+
+limpiar_pantalla()
+caracteres = leer_cadena("Ingresa una cadena de caracteres ?",
+                         "☠️Debe ingresar una cadena de caracteres☠️")
 
 conta_numeros = 0
 conta_letras = 0
