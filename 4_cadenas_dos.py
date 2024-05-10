@@ -1,8 +1,11 @@
 '''
 Recorrido de una cadena
 '''
+from funciones_captura import limpiar_pantalla, leer_cadena
 
-cadena = input("Ingresa una cadena de caracteres:\n")
+#cadena = input("Ingresa una cadena de caracteres:\n")
+cadena = leer_cadena("Ingresa una cadena de caracteres....",
+                    "🛑Debe ingresar una cadena de caracteres... 🛑")
 
 print(f"Cadena de caracteres ingresada\n{cadena}")
 
